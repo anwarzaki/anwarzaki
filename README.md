@@ -7,11 +7,11 @@
 
 ## About Me 😎
 
-- 🎓 I am a **Postgradute Student**, pursuing **Master of Computer Application**. <br>
+- 🎓 I am a **Undergradute Student**, pursuing **B.Tech**. <br>
 - 👀 I’m interested in Open Source, Web Development, UI and Programming.
 - 💬 I would love to talk about internship opportunities.
 - 💞️ I’m looking to collaborate on any open source platform.
-- 💡 I am currently focusing on **Data Structures and Algorithm** in **C++**.<br>
+- 💡 I am currently focusing on **Data Structures and Algorithm** in **java**.<br>
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 - 📫 You can connect with me via this [link]
 
