@@ -31,8 +31,6 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%23ffd2ce.svg?style=for-the-badge&logo=mongodb&logoColor=140200" />
 <img alt="ReactJs" src="https://img.shields.io/badge/react-f2ca61.svg?style=for-the-badge&logo=react&logoColor=140200"/>
 <img alt="NextJs" src="https://img.shields.io/badge/next.js-%23fca9ae.svg?style=for-the-badge&logo=next.js&logoColor=140200" />
-<img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23e4626b.svg?style=for-the-badge&logo=figma&logoColor=140200" />
  </p>
 
 ## My GitHub Analytics 📈
